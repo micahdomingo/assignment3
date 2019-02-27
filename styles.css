@@ -1,0 +1,66 @@
+h1 {
+  font-family: Helvetica;
+  font-size: 45px;
+  color: white;
+  bottom: 0px;
+  text-align: center;
+  font-weight: bold;
+ }
+
+h2 {
+  font-family: Helvetica;
+  font-size: 20px;
+  text-align: center;
+  margin: 0px;
+  font-weight: normal;
+  color: #5b5b5b;
+}
+
+body {
+  margin: 10;
+  padding: 10;
+  background-color: #55c6d6;
+  font-family: Calibri;
+  color: black;
+  }
+
+
+a {
+  color: white;
+  }
+  
+p {
+  margin: 10px;
+  color: black;
+  font-weight: bold;
+}
+
+.popup-name {
+  text-transform: capitalize;
+  color: #834884;
+  text-align: center;
+  font-size: 14px;
+}
+
+.popup-abbrev {
+  text-align: center;
+  font-size: 12px;
+}
+
+.popup-type {
+  text-transform: none;
+  color: #53c1cc;
+  text-align: center;
+  font-size: 11px;
+}
+
+
+
+#map {
+  position: fixed;
+  left: 400px;
+  top: 150px;
+  height: 75%;
+  width: 50%;
+ }
+
